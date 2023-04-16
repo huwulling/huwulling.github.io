@@ -1,3 +1,10 @@
+
+h1 {
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+   
+
 body{
     background: rgb(13,255,0);
     background: linear-gradient(90deg, rgba(13,255,0,1) 0%, rgba(252,0,255,1) 100%);
@@ -8,8 +15,4 @@ body{
     
     
     
-       h1 {
-      color: red;
-      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    }
      
