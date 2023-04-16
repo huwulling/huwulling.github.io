@@ -1,0 +1,14 @@
+body{
+    background: rgb(13,255,0);
+    background: linear-gradient(90deg, rgba(13,255,0,1) 0%, rgba(252,0,255,1) 100%);
+    
+      color: white;
+      font-family:"Comic sans MS"
+    }
+    
+    
+    
+       h1 {
+      color: red;
+    }
+     
