@@ -13,7 +13,9 @@ p {
       color: white;
       font-family:"Comic sans MS"
     }
-    
+    li {
+      list-style-type: none;
+    }
     
     
      
