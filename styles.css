@@ -1,7 +1,7 @@
 
 h1 {
-    color: red;
-    font-family: Impact;
+    color: rgb(255, 251, 251);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-stretch: ultra-expanded; 
   }
   
@@ -17,6 +17,8 @@ font-family:"Comic sans MS"
 }
 
   li {
+    color: white;
+    font-family: "comic sans MS";
     list-style-type: circle;
   }
 
