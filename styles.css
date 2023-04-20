@@ -3,8 +3,9 @@ h1 {
     color: rgb(255, 251, 251);
     font-family: 'Franklin Gothic Medium';
     font-stretch: wider;
-  }
-  
+ 
+}
+
   
 body{
   background: rgb(13,255,0);
@@ -12,10 +13,18 @@ body{
    }
 
 
-p  { color: white;
+p  { color: #ffffff;
 font-family:"Comic sans MS"
 }
 
+
+
+li em {
+  color: rgb(255, 0, 255);
+  font-family: 'Times New Roman', Times, serif;
+  font-size: xx-large;
+
+}
 
   li {
     color: white;
@@ -28,7 +37,19 @@ font-family:"Comic sans MS"
   color: rgb(38, 0, 255);
 font-weight: bold;
 }
-  
+ 
+a:link {
+  color: blue;
+}
+
+a:visited {
+  color: purple;
+}
+
+a:hover {
+  text-decoration: "reggie gets bath";
+}
+
     
     
      
