@@ -1,8 +1,8 @@
 
 h1 {
     color: rgb(255, 251, 251);
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-stretch: ultra-expanded; 
+    font-family: 'Franklin Gothic Medium';
+    font-stretch: wider;
   }
   
   
@@ -16,6 +16,7 @@ p  { color: white;
 font-family:"Comic sans MS"
 }
 
+
   li {
     color: white;
     font-family: "comic sans MS";
@@ -23,7 +24,8 @@ font-family:"Comic sans MS"
   }
 
 .special {
-  color: orangered;
+  font-family: "comic sans MS";
+  color: rgb(38, 0, 255);
 font-weight: bold;
 }
   
